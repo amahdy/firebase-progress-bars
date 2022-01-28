@@ -1,3 +1,5 @@
+# WIP: Project not ready
+
 # Firebase Webpack Starter
 
 This is a simple Firebase & Webpack starter.
